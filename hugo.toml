@@ -1,0 +1,4 @@
+baseURL = 'https://blog.alacrity.sg'
+languageCode = 'en-us'
+title = 'Alacrity Tech Blog'
+theme = 'hugo-theme-cleanwhite'
